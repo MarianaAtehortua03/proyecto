@@ -1,0 +1,10 @@
+componente,tarea,segundos,cantidad,unidad,ms_por_unidad
+API de GitHub,Descarga de commits y diffs,7.623762999999599,25,commits,304.95051999998395
+Detector regex,28 patrones sobre los diffs,0.0590124950003883,25,commits,2.360499800015532
+Fingerprint SHA-256,Deduplicación,0.0002051879997452488,90,detecciones,0.002279866663836098
+Árbol CART,Entrenamiento (771 ejemplos),0.2234065600008762,771,ejemplos,0.28976207522811437
+Random Forest,Entrenamiento (771 ejemplos),2.030358680000063,771,ejemplos,2.6334094422828316
+Árbol CART,Predicción (181 hallazgos),0.019076480000148877,181,hallazgos,0.10539491712789435
+Random Forest,Predicción (181 hallazgos),0.05130542999977479,181,hallazgos,0.2834554143633966
+Isolation Forest,Entrenar y puntuar (684 commits),0.21980431999982103,684,commits,0.3213513450289781
+K-Means,"Agrupar (11 repositorios, K=2..4)",0.06391833000016049,11,repositorios,5.810757272741863
